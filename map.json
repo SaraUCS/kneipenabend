@@ -198,7 +198,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tile set Boden 0712.png",
+         "image":"tileset_Boden_0712.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -211,7 +211,7 @@
         {
          "columns":10,
          "firstgid":193,
-         "image":"tile set 0412.png",
+         "image":"tileset_0412.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
